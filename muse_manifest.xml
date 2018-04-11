@@ -1,0 +1,29 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="k2nk.github.io" resolutions="1x" timestamp="1523445435246">
+  <folder name="css">
+    <file name="site_global.css" crc="397631296"/>
+    <file name="master_a-master.css" crc="252259531" ref="index:about"/>
+    <file name="index.css" crc="4000961820" ref="index"/>
+    <file name="about.css" crc="3999108133" ref="about"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about"/>
+    <file name="museutils.js" crc="340535759" ref="index:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about"/>
+    <file name="museconfig.js" crc="310584261" ref="index:about"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:about"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about"/>
+    <file name="require.js" crc="7928878" ref="index:about"/>
+  </folder>
+  <folder name="images">
+    <file name="wallpaperwiki-8-bit-hd-backgrounds-pic-wpc0014531.jpg" crc="4266945805" ref="index:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u1550.png" crc="237487921" ref="about"/>
+    <file name="u1550-r.png" crc="404419068" ref="about"/>
+    <file name="u1558.png" crc="3842656345" ref="about"/>
+    <file name="u1558-r.png" crc="238765909" ref="about"/>
+  </folder>
+  <file name="index.html" crc="316460098" seo="true" mt="1523445381598" redirect="true"/>
+  <file name="about.html" crc="3913256521" seo="true" mt="1523445381598" redirect="true"/>
+</manifest>
