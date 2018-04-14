@@ -1,0 +1,35 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="k2nk.github.io" resolutions="1x" timestamp="1523681718497">
+  <folder name="css">
+    <file name="site_global.css" crc="3950363466"/>
+    <file name="master_a-master.css" crc="3910463258" ref="index:about"/>
+    <file name="index.css" crc="4078869412" ref="index"/>
+    <file name="about.css" crc="184701477" ref="about"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about"/>
+    <file name="museutils.js" crc="340535759" ref="index:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about"/>
+    <file name="museconfig.js" crc="310584261" ref="index:about"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:about"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about"/>
+    <file name="require.js" crc="7928878" ref="index:about"/>
+  </folder>
+  <folder name="images">
+    <file name="wallpaperwiki-8-bit-hd-backgrounds-pic-wpc0014531.jpg" crc="4266945805" ref="index:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="favicon.ico" crc="3912690004" ref="index"/>
+    <file name="icon-facebook.png" crc="74747814" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="icon-youtube.png" crc="42293915" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="arrow-png-image.png" crc="3985190118" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="347727466" seo="true" mt="1523681507113" redirect="true"/>
+  <file name="about.html" crc="168549979" seo="true" mt="1523681374590" redirect="true"/>
+</manifest>
