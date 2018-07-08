@@ -1,0 +1,61 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="k2nk.github.io" resolutions="1x" timestamp="1531054695619">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="152426914" ref="index"/>
+    <file name="index.css" crc="364333189" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="fkgzdes.jpg" crc="4034872916" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="jw5sh4b.jpg" crc="520895948" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cb5o3he.jpg" crc="4153100588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="youtube.png" crc="314954911" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="reddit.png" crc="400835036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="deviantart.png" crc="146064311" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="soundcloud.png" crc="3909117098" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.png" crc="3966345988" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-discord-50.png" crc="309584053" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="right3.png" crc="3823326553" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1132_t.png" crc="4010316170" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="37091-anime-scenery-wallpaper-1920x1080-for-meizu.jpg" crc="3955865483" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4272410914" seo="true" mt="1531054590163" redirect="true"/>
+</manifest>
